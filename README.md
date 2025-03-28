@@ -4,6 +4,10 @@
 
 ### Оригінальні зображення
 
+![фото](https://github.com/user-attachments/assets/a31d087b-945d-488c-a177-35d244f4cedf)
+![скрин](https://github.com/user-attachments/assets/5b34881a-9238-46e5-9b10-33337cf06175)
+![фото_з_текстом](https://github.com/user-attachments/assets/5f7852d1-9fd0-46eb-98e2-5f1b168681ad)
+
 
 | **Параметр**            | **Файл 1**  | **Файл 2**  | **Файл 3**  |
 |-------------------------|-------------|-------------|-------------|
