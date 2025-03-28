@@ -3,10 +3,10 @@
 ### Оригінальні зображення
 
 #### фото
-![фото](imsg/фото.jpg)
+![фото](imgs/фото.jpg)
 
 #### скріншот
-![скрин](https://github.com/user-attachments/assets/5b34881a-9238-46e5-9b10-33337cf06175)
+![скрин](imgs/скрин.png)
 
 #### зображення з текстом
 ![фото_з_текстом](https://github.com/user-attachments/assets/5f7852d1-9fd0-46eb-98e2-5f1b168681ad)
