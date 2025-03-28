@@ -9,7 +9,7 @@
 ![скрин](imgs/скрин.png)
 
 #### зображення з текстом
-![фото_з_текстом](https://github.com/user-attachments/assets/5f7852d1-9fd0-46eb-98e2-5f1b168681ad)
+![фото_з_текстом](imgs/фото_з_текстом.jpg)
 
 | **Параметр**            | **Фото**  | **Скріншот** | **Зображення з текстом** |
 |-------------------------|-----------|--------------|--------------------------|
@@ -91,19 +91,87 @@
 | **Вага**                | 420 KB    | 7.48 MB    | 188 KB     |
 | **Роздільна здатність** | 2160x1430 | 3840x2160  | 2000x1334  |
 
-
 ---
 
 ## Зображення
 
 ### Lossless png
-![фото-lossless-png](https://github.com/user-attachments/assets/2686db6f-afde-4d91-b2ea-5eacff659812)
-![скрин-lossless-png](https://github.com/user-attachments/assets/bf57d76d-e9dc-45ce-a5c1-0edec43fd8d7)
-![фото_з_текстом-lossless-png](https://github.com/user-attachments/assets/63a5f29f-4148-4732-83f5-5d124827650f)
+![фото lossless](imgs/фото-lossless-png.png)
+![скрин lossless](imgs/скрин-lossless-png.png)
+![фото_з_текстом lossless](imgs/фото_з_текстом-lossless-png.png)
 
 ### Lossless webp
+![фото lossless](imgs/фото.webp)
+![скрин lossless](imgs/скрин.webp)
+![фото_з_текстом lossless](imgs/фото_з_текстом.webp)
 
+---
 
+### Lossy MozJPEG 50%
+![фото lossless](imgs/фото-moz-50.jpg)
+![скрин lossless](imgs/скрин-moz-50.jpg)
+![фото_з_текстом lossless](imgs/фото_з_текстом-moz-50.jpg)
+
+### Lossy MozJPEG 75%
+![фото lossless](imgs/фото-moz-75.jpg)
+![скрин lossless](imgs/скрин-moz-75.jpg)
+![фото_з_текстом lossless](imgs/фото_з_текстом-moz-75.jpg)
+
+### Lossy MozJPEG 100%
+![фото lossless](imgs/фото-moz-100.jpg)
+![скрин lossless](imgs/скрин-moz-100.jpg)
+![фото_з_текстом lossless](imgs/фото_з_текстом-moz-100.jpg)
+
+---
+
+### Lossy webp 50%
+![фото lossless](imgs/фото-webp-50.webp)
+![скрин lossless](imgs/скрин-webp-50.webp)
+![фото_з_текстом lossless](imgs/фото_з_текстом-webp-50.webp)
+
+### Lossy webp 75%
+![фото lossless](imgs/фото-webp-75.webp)
+![скрин lossless](imgs/скрин-webp-75.webp)
+![фото_з_текстом lossless](imgs/фото_з_текстом-webp-75.webp)
+
+### Lossy webp 100%
+![фото lossless](imgs/фото-webp-100.webp)
+![скрин lossless](imgs/скрин-webp-100.webp)
+![фото_з_текстом lossless](imgs/фото_з_текстом-webp-100.webp)
+
+---
+
+### Lossy AVIF 50%
+![фото lossless](imgs/фото-avif-50.avif)
+![скрин lossless](imgs/скрин-avif-50.avif)
+![фото_з_текстом lossless](imgs/фото_з_текстом-avif-50.avif)
+
+### Lossy AVIF 75%
+![фото lossless](imgs/фото-avif-75.avif)
+![скрин lossless](imgs/скрин-avif-75.avif)
+![фото_з_текстом lossless](imgs/фото_з_текстом-avif-75.avif)
+
+### Lossy AVIF 100%
+![фото lossless](imgs/фото-avif-100.avif)
+![скрин lossless](imgs/скрин-avif-100.avif)
+![фото_з_текстом lossless](imgs/фото_з_текстом-avif-100.avif)
+
+---
+
+### Розмір під web (1200px)
+![фото lossless](imgs/фото-lossless-png.png)
+![скрин lossless](imgs/скрин-lossless-png.png)
+![фото_з_текстом lossless](imgs/фото_з_текстом-lossless-png.png)
+
+### Розмір під мобільні пристрої (600px)
+![фото lossless](imgs/фото-lossless-png.png)
+![скрин lossless](imgs/скрин-lossless-png.png)
+![фото_з_текстом lossless](imgs/фото_з_текстом-lossless-png.png)
+
+### Розмір під Retina
+![фото lossless](imgs/фото-lossless-png.png)
+![скрин lossless](imgs/скрин-lossless-png.png)
+![фото_з_текстом lossless](imgs/фото_з_текстом-lossless-png.png)
 
 ---
 
