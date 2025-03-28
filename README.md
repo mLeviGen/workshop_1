@@ -108,70 +108,70 @@
 ---
 
 ### Lossy MozJPEG 50%
-![фото lossless](imgs/фото-moz-50.jpg)
-![скрин lossless](imgs/скрин-moz-50.jpg)
-![фото_з_текстом lossless](imgs/фото_з_текстом-moz-50.jpg)
+![фото mozjpeg](imgs/фото-moz-50.jpg)
+![скрин mozjpeg](imgs/скрин-moz-50.jpg)
+![фото_з_текстом mozjpeg](imgs/фото_з_текстом-moz-50.jpg)
 
 ### Lossy MozJPEG 75%
-![фото lossless](imgs/фото-moz-75.jpg)
-![скрин lossless](imgs/скрин-moz-75.jpg)
-![фото_з_текстом lossless](imgs/фото_з_текстом-moz-75.jpg)
+![фото mozjpeg](imgs/фото-moz-75.jpg)
+![скрин mozjpeg](imgs/скрин-moz-75.jpg)
+![фото_з_текстом mozjpeg](imgs/фото_з_текстом-moz-75.jpg)
 
 ### Lossy MozJPEG 100%
-![фото lossless](imgs/фото-moz-100.jpg)
-![скрин lossless](imgs/скрин-moz-100.jpg)
-![фото_з_текстом lossless](imgs/фото_з_текстом-moz-100.jpg)
+![фото mozjpeg](imgs/фото-moz-100.jpg)
+![скрин mozjpeg](imgs/скрин-moz-100.jpg)
+![фото_з_текстом mozjpeg](imgs/фото_з_текстом-moz-100.jpg)
 
 ---
 
 ### Lossy webp 50%
-![фото lossless](imgs/фото-webp-50.webp)
-![скрин lossless](imgs/скрин-webp-50.webp)
-![фото_з_текстом lossless](imgs/фото_з_текстом-webp-50.webp)
+![фото webp](imgs/фото-webp-50.webp)
+![скрин webp](imgs/скрин-webp-50.webp)
+![фото_з_текстом webp](imgs/фото_з_текстом-webp-50.webp)
 
 ### Lossy webp 75%
-![фото lossless](imgs/фото-webp-75.webp)
-![скрин lossless](imgs/скрин-webp-75.webp)
-![фото_з_текстом lossless](imgs/фото_з_текстом-webp-75.webp)
+![фото webp](imgs/фото-webp-75.webp)
+![скрин webp](imgs/скрин-webp-75.webp)
+![фото_з_текстом webp](imgs/фото_з_текстом-webp-75.webp)
 
 ### Lossy webp 100%
-![фото lossless](imgs/фото-webp-100.webp)
-![скрин lossless](imgs/скрин-webp-100.webp)
-![фото_з_текстом lossless](imgs/фото_з_текстом-webp-100.webp)
+![фото webp](imgs/фото-webp-100.webp)
+![скрин webp](imgs/скрин-webp-100.webp)
+![фото_з_текстом webp](imgs/фото_з_текстом-webp-100.webp)
 
 ---
 
 ### Lossy AVIF 50%
-![фото lossless](imgs/фото-avif-50.avif)
-![скрин lossless](imgs/скрин-avif-50.avif)
-![фото_з_текстом lossless](imgs/фото_з_текстом-avif-50.avif)
+![фото AVIF](imgs/фото-avif-50.avif)
+![скрин AVIF](imgs/скрин-avif-50.avif)
+![фото_з_текстом AVIF](imgs/фото_з_текстом-avif-50.avif)
 
 ### Lossy AVIF 75%
-![фото lossless](imgs/фото-avif-75.avif)
-![скрин lossless](imgs/скрин-avif-75.avif)
-![фото_з_текстом lossless](imgs/фото_з_текстом-avif-75.avif)
+![фото AVIF](imgs/фото-avif-75.avif)
+![скрин AVIF](imgs/скрин-avif-75.avif)
+![фото_з_текстом AVIF](imgs/фото_з_текстом-avif-75.avif)
 
 ### Lossy AVIF 100%
-![фото lossless](imgs/фото-avif-100.avif)
-![скрин lossless](imgs/скрин-avif-100.avif)
-![фото_з_текстом lossless](imgs/фото_з_текстом-avif-100.avif)
+![фото AVIF](imgs/фото-avif-100.avif)
+![скрин AVIF](imgs/скрин-avif-100.avif)
+![фото_з_текстом AVIF](imgs/фото_з_текстом-avif-100.avif)
 
 ---
 
 ### Розмір під web (1200px)
-![фото lossless](imgs/фото-lossless-png.png)
-![скрин lossless](imgs/скрин-lossless-png.png)
-![фото_з_текстом lossless](imgs/фото_з_текстом-lossless-png.png)
+![фото 1200px](imgs/фото-lossless-png.png)
+![скрин 1200px](imgs/скрин-lossless-png.png)
+![фото_з_текстом 1200px](imgs/фото_з_текстом-lossless-png.png)
 
 ### Розмір під мобільні пристрої (600px)
-![фото lossless](imgs/фото-lossless-png.png)
-![скрин lossless](imgs/скрин-lossless-png.png)
-![фото_з_текстом lossless](imgs/фото_з_текстом-lossless-png.png)
+![фото 600px](imgs/фото-lossless-png.png)
+![скрин 600px](imgs/скрин-lossless-png.png)
+![фото_з_текстом 600px](imgs/фото_з_текстом-lossless-png.png)
 
 ### Розмір під Retina
-![фото lossless](imgs/фото-lossless-png.png)
-![скрин lossless](imgs/скрин-lossless-png.png)
-![фото_з_текстом lossless](imgs/фото_з_текстом-lossless-png.png)
+![фото Retina](imgs/фото-lossless-png.png)
+![скрин Retina](imgs/скрин-lossless-png.png)
+![фото_з_текстом Retina](imgs/фото_з_текстом-lossless-png.png)
 
 ---
 
