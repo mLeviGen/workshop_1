@@ -1,4 +1,4 @@
-# Звіт з практичної роботи №1
+![фото_з_текстом-lossless-png](https://github.com/user-attachments/assets/9556d4cb-4ceb-4f08-950c-8f13a2fcbdfc)# Звіт з практичної роботи №1
 
 ### Оригінальні зображення
 
@@ -90,6 +90,19 @@
 |-------------------------|------------|------------|------------|
 | **Вага**                | 420 KB    | 7.48 MB    | 188 KB     |
 | **Роздільна здатність** | 2160x1430 | 3840x2160  | 2000x1334  |
+
+
+---
+
+## Зображення
+
+### Lossless png
+![фото-lossless-png](https://github.com/user-attachments/assets/2686db6f-afde-4d91-b2ea-5eacff659812)
+![скрин-lossless-png](https://github.com/user-attachments/assets/bf57d76d-e9dc-45ce-a5c1-0edec43fd8d7)
+![фото_з_текстом-lossless-png](https://github.com/user-attachments/assets/63a5f29f-4148-4732-83f5-5d124827650f)
+
+### Lossless webp
+
 
 
 ---
