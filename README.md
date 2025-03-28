@@ -3,7 +3,7 @@
 ### Оригінальні зображення
 
 #### фото
-![фото](https://github.com/user-attachments/assets/a31d087b-945d-488c-a177-35d244f4cedf)
+![фото](imsg/фото.jpg)
 
 #### скріншот
 ![скрин](https://github.com/user-attachments/assets/5b34881a-9238-46e5-9b10-33337cf06175)
