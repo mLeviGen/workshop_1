@@ -1,4 +1,4 @@
-![фото_з_текстом-lossless-png](https://github.com/user-attachments/assets/9556d4cb-4ceb-4f08-950c-8f13a2fcbdfc)# Звіт з практичної роботи №1
+# Звіт з практичної роботи №1
 
 ### Оригінальні зображення
 
